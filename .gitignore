@@ -1,0 +1,25 @@
+# Environnements virtuels
+venv/
+venv311/
+ENV/
+.env/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# OS
+.DS_Store
+
+# Logs
+*.log
+
+# IDE
+.vscode/
+.idea/
+
+# Neo4j dumps
+*.dump
+
+# Streamlit cache
+.streamlit/
